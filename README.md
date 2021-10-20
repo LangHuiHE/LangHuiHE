@@ -5,7 +5,7 @@
 - 📫 Google me haha
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LangHuiHE&hide=Scilab)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LangHuiHE&hide=Scilab&theme=synthwav)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LangHuiHE&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
