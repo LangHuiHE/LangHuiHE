@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing nothing
 - 🌱 I’m currently learning coding Y'll know 
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me use your hands?
+- 📫 Google me haha
 
 <!---
 LangHuiHE/LangHuiHE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
