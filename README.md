@@ -12,7 +12,7 @@
 
 
 <!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/LangHuiHE/LangHuiHEr/blob/master/github-metrics.svg)
+![Metrics](https://github.com/LangHuiHE/LangHuiHE/blob/master/github-metrics.svg)
 
 <!-- If you're using "main" as default branch -->
 <!---
