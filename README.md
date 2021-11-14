@@ -11,7 +11,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LangHuiHE&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
-![Metrics](https://metrics.lecoq.io/LangHuiHE?template=classic&base.metadata=0&languages=1&introduction=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FDenver)
+![Metrics](https://metrics.lecoq.io/LangHuiHE?template=classic&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&languages.limit=10&languages.sections=most-used&languages.colors=github&languages.threshold=2%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FDenver)
 
 
 <!---
